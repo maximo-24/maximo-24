@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there! 👋
 
-<!--
-**maximo-24/maximo-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a little about me:
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Mark Angelo S. Fulledo
+
+Profession:Student
+
+Interests: Designing, Web Development, and Front-End programming
+
+🛠️ Skills
+
+Languages: Java, PHP, MYSQL, and JavaScript
+
+Frameworks/Tools: Laravel
+
+🌟 Projects
+
+Here are a few of my favorite projects:
+
+[Hardware Point-of-Sale System][Link to Project](https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git) - A simple Java GUI school project POS management system for hardware stores.
+
+[Documento][(Link to Project)](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
+
+🤝 Contributing
+
+D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
+
+Thanks for visiting! 😊
