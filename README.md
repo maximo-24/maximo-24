@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here's a little about me:
 
 Name: Mark Angelo S. Fulledo
 
-Profession:Student
+Profession: Student
 
 Interests: Designing, Web Development, and Front-End programming
 
