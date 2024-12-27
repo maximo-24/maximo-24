@@ -22,7 +22,7 @@ Here are a few of my favorite projects:
 
 [Hardware Point-of-Sale System](https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git) - A simple Java GUI school project POS management system for hardware stores.
 
-[Documento][(Link to Project)](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
+[Documento](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
 
 🤝 Contributing
 
