@@ -18,7 +18,7 @@ Frameworks/Tools: Laravel
 
 🌟 Projects
 
-Here are a few of my favorite projects:
+Here are a few of my stater projects:
 
 [Hardware Point-of-Sale System](https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git) - A simple Java GUI school project POS management system for hardware stores.
 
