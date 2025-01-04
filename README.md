@@ -24,7 +24,7 @@ Here are a few of my favorite projects:
 
 [Documento](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
 
-[Simple student management RESTful web service]([https://github.com/maximo-24/documento_crud_system.git](https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git)) - A simple file upload crud management system for school project.A simple source code for student management system utilizing RESTful web service that can add, edit, delete and update records.
+[Simple student management RESTful web service](https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git) - A simple file upload crud management system for school project.A simple source code for student management system utilizing RESTful web service that can add, edit, delete and update records.
 
 🤝 Contributing
 
