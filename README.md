@@ -28,4 +28,4 @@ Here are a few of my favorite projects:
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
 
-Thanks for visiting! 😊
+A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
