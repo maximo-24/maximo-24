@@ -33,4 +33,6 @@ Here are a few of my stater projects:
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
