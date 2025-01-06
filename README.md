@@ -36,7 +36,7 @@ D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management S
 <br><br>
 <div align="left">
   <a href="https://www.facebook.com/markangelo.fulledo/"><img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="facebook of Mark Angelo Fulledo" /></a>
-  <a href="mailto::markangelofulledo@gmail.com"><img src=" https://img.shields.io/badge/GMAIL%20-%20%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23ffffff&logoSize=AUTO" alt="gmail markangelofulledo@gmail.com" /></a>
+  <a href="mailto:markangelofulledo@gmail.com"><img src=" https://img.shields.io/badge/GMAIL%20-%20%23EA4335?style=for-the-badge&logo=gmail&logoColor=%23ffffff&logoSize=AUTO" alt="gmail markangelofulledo@gmail.com" /></a>
 </div>
 <br><br>
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
