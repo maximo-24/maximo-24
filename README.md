@@ -17,6 +17,7 @@ Interests: Designing, Web Development, and Front-End programming
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/>
 </p>
 
 🌟 Projects
@@ -32,7 +33,5 @@ Here are a few of my stater projects:
 🤝 Contributing
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
