@@ -1,11 +1,3 @@
-<img src="https://img.shields.io/badge/MY%20INFORMATION%20-%20%23000000?style=for-the-badge&logoSize=auto" alt="my information" />
-
-
-Name: Mark Angelo S. Fulledo
-
-Profession: Student
-
-Interests: Designing, Web Development, and Front-End programming
 
 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
@@ -21,7 +13,7 @@ Interests: Designing, Web Development, and Front-End programming
 
 Here are a few of my stater projects:
 
-[Hardware Point-of-Sale System](https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git) - A simple Java GUI school project POS management system for hardware stores.
+<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> - A simple Java GUI school project POS management system for hardware stores.
 
 [Documento](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
 
