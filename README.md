@@ -1,8 +1,5 @@
-Hi there! 👋
+<img src="https://img.shields.io/badge/MY%20INFORMATION%20-%20%23000000?style=for-the-badge&logoSize=auto" alt="my information" />
 
-Welcome to my GitHub profile! Here's a little about me:
-
-🚀 About Me
 
 Name: Mark Angelo S. Fulledo
 
