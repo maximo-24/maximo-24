@@ -34,10 +34,6 @@ Here are a few of my stater projects:
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
 <div align="left">
-  <a href="https://www.facebook.com/markangelo.fulledo" style="text-decoration: none; margin: 0; padding: 0; display: inline-block;">
-    <img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="Facebook of Mark Angelo Fulledo" />
-  </a><a href="mailto:markangelofulledo@gmail.com" style="text-decoration: none; margin-left: 10px; margin: 0; padding: 0; display: inline-block;">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email of Mark i.e. markangelofulledo@gmail.com" />
-  </a>
+<a href="https://www.facebook.com/markangelo.fulledo"><img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="Facebook of Mark Angelo Fulledo" /></a><a href="mailto:markangelofulledo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email of Mark i.e. markangelofulledo@gmail.com" /></a>
 </div>
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
