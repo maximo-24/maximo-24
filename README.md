@@ -34,7 +34,7 @@ Here are a few of my stater projects:
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
 <div align="left">
-  <a href="https://www.facebook.com/markangelo.fulledo">
+  <a href="https://www.facebook.com/markangelo.fulledo" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="facebook of Mark Angelo Fulledo" />
   </a>
   <a href="mailto:markangelofulledo@gmail.com" style="margin-left: 10px;">
