@@ -24,7 +24,7 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 
 <h1>➭Contributing</h1>
 
-D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
+<h4>D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System</h4>
 
 <h1>➭Socials</h1>
 
