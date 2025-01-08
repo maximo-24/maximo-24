@@ -1,10 +1,10 @@
-<h1>⇒ABOUT ME</h1>
+<h1>➭ABOUT ME</h1>
 
 <div align="justify">
 An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies. 
 </div>
 
-<h1>⇒TECHNICAL FUNDAMENTAL SKILLS</h1>
+<h1>➭TECHNICAL FUNDAMENTAL SKILLS</h1>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
@@ -14,7 +14,7 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/>
 </p>
 
-<h1>⇒Starter Project</h1>
+<h1>➭Starter Project</h1>
 
 <a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> A simple Java GUI school project POS management system for hardware stores.
 
