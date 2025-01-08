@@ -28,6 +28,6 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 
 <h1>➭Socials</h1>
 
-<a href="https://www.facebook.com/markangelo.fulledo"><img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="Facebook of Mark Angelo Fulledo" /></a><a href="https://mail.google.com/mail/u/0/?to=markangelofulledo@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email of Mark i.e. markangelofulledo@gmail.com" /></a>
+<a href="https://www.facebook.com/markangelo.fulledo"><img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="Facebook of Mark Angelo Fulledo" /></a‎ <a href="https://mail.google.com/mail/u/0/?to=markangelofulledo@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email of Mark i.e. markangelofulledo@gmail.com" /></a>
 
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
