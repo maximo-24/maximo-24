@@ -22,8 +22,12 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 
 <a href="https://github.com/maximo-24/documento_crud_system.git](https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> - A simple file upload crud management system for school project.A simple source code for student management system utilizing RESTful web service that can add, edit, delete and update records.
 
-🤝 Contributing
+<h1>➭Contributing</h1>
 
 D'Logics & Team-BA (Capstone Project) - Pi-Lock Automated Door Lock Management System
+
+<h1>➭Socials</h1>
+
 <a href="https://www.facebook.com/markangelo.fulledo"><img src="https://img.shields.io/badge/FACEBOOK%20-%20%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO" alt="Facebook of Mark Angelo Fulledo" /></a><a href="mailto:markangelofulledo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email of Mark i.e. markangelofulledo@gmail.com" /></a>
+
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
