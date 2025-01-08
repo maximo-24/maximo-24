@@ -30,5 +30,7 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO)](https://www.facebook.com/markangelo.fulledo)
 [![Gmail](https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209)](mailto:markangelofulledo@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-%20%23EE1D52?style=for-the-badge&logo=tiktok)(https://www.tiktok.com/@maximuzt24)
+
 
 A newbie but willing to expand my horizon on more discussions and collaborations. Thanks for visiting! 😊
