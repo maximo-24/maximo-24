@@ -20,7 +20,7 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 
 <a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a> A simple file upload crud management system for school project.
 
-[Simple student management RESTful web service](https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git) - A simple file upload crud management system for school project.A simple source code for student management system utilizing RESTful web service that can add, edit, delete and update records.
+<a href="https://github.com/maximo-24/documento_crud_system.git](https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> - A simple file upload crud management system for school project.A simple source code for student management system utilizing RESTful web service that can add, edit, delete and update records.
 
 🤝 Contributing
 
