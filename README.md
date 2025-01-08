@@ -1,3 +1,4 @@
+An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies.
 
 🚀 &nbsp;Some Tools I Have Used and Learned
 <p align="left">
@@ -13,7 +14,7 @@
 
 Here are a few of my stater projects:
 
-<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> - A simple Java GUI school project POS management system for hardware stores.
+<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> A simple Java GUI school project POS management system for hardware stores.
 
 [Documento](https://github.com/maximo-24/documento_crud_system.git) - A simple file upload crud management system for school project.
 
