@@ -1,3 +1,5 @@
+<h1 style="font-family: Arial, sans-serif; color: blue;">Get to know me...</h1>
+
 An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies.
 
 🚀 &nbsp;Some Tools I Have Used and Learned
