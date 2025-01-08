@@ -11,9 +11,7 @@ An enthusiastic web developer who specializes in building dynamic and intuitive 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" alt="latex" width="45" height="45"/>
 </p>
 
-🌟 Projects
-
-Here are a few of my stater projects:
+<h1>Starter Project</h1>
 
 <a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> A simple Java GUI school project POS management system for hardware stores.
 
