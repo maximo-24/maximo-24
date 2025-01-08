@@ -1,7 +1,6 @@
 <h1>ABOUT ME</h1>
 
-An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies.
-
+An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies. <br><br>
 <h1>TECHNICAL FUNDAMENTAL SKILLS</h1>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
