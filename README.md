@@ -1,7 +1,7 @@
 <h1>⇒ABOUT ME</h1>
 
 <div align="justify">
-An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies. 
+<h3>An enthusiastic web developer who specializes in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. Building responsive, high-performing websites and applications is my area of expertise, and I have a strong foundation in both front-end and back-end technologies. </h3>
 </div>
 
 <h1>⇒TECHNICAL FUNDAMENTAL SKILLS</h1>
