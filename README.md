@@ -25,13 +25,6 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 
 <a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> <a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a> <a href="https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> <a href="https://github.com/maximo-24/mark-fulledo-portfolio.git"><img src="https://img.shields.io/badge/Portfolio%20-%20%23de9009?style=flat" alt="portfolio" /></a> 
 
-<h1>📣ONGOING PROJECT</h1>
-
-<h3><img src="https://img.shields.io/badge/PI%20LOCK%20DOOR%20SYSTEM%20-%20%2353a1f5?style=flat" alt="pilock"> D' Logics & Team - BA (CAPSTONE PROJECT) </h3>
-<div align="justify">
-<p>This capstone project features: Scheduling | Validating schedules | Attendance tracking | Event creation and more. My role in the project is as a project head and QA tester.</p>
-</div>
-
 <h1>📱CONTACT ME</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO)](https://www.facebook.com/markangelo.fulledo)
