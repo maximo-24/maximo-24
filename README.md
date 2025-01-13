@@ -21,7 +21,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
  <a href="#"><img src="https://img.shields.io/badge/MYSQL%20-%20%238a4ad4?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%234b3761" alt="MYSQL" />
 </p>
 
-<h3>📝STARTER PROJECT</h3>
+<h1>📝STARTER PROJECT</h1>
 
 <a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> ​A simple Java GUI school project for hardware store management.
 
@@ -43,7 +43,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO)](https://www.facebook.com/markangelo.fulledo)
 [![Gmail](https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209)](mailto:markangelofulledo@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-%20%23EE1D52?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@maximuzt24)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN%20-%20%20%230077B5?style=for-the-badge&logoColor=%23FFF&label=in&labelColor=%230077B5)](https://www.linkedin.com/in/mark-angelo-fulledo/)
+[![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN%20-%20%20%230077B5?style=for-the-badge&logoColor=%23FFF&labelColor=%230077B5)](https://www.linkedin.com/in/mark-angelo-fulledo/)
 [![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
 
 
