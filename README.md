@@ -14,6 +14,7 @@
 <h3>💻ＴＥＣＨＮＩＣＡＬ ＦＵＮＤＡＭＥＮＴＡＬ ＳＫＩＬＬＳ</h3>
 <p align="left">
  <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
+ <a href="#"><img src="https://img.shields.io/badge/JAVA%20-%20%2326a69f?style=for-the-badge&logoColor=%23fff&label=%E2%99%A8&labelColor=%2365a3a0" alt="JAVA"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
