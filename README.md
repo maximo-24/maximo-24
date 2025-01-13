@@ -46,7 +46,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209)](mailto:markangelofulledo@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-%20%23EE1D52?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@maximuzt24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20%230077B5?style=for-the-badge)](https://www.linkedin.com/in/mark-angelo-fulledo/)
-[![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)]((https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
+[![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
 
 
 
