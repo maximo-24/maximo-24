@@ -47,5 +47,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 [![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
 
 <h1></h1>
+![maximo-24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![maximo-24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maximo-24&theme=vue-dark&hide_border=true)
 
 📢 A NEWBIE BUT WILLING TO EXPANF MY HORIZON ON MORE DISCUSSIONS. THANKS FOR VISITING​❗
