@@ -13,7 +13,7 @@
 
 <h3>💻ＴＥＣＨＮＩＣＡＬ ＦＵＮＤＡＭＥＮＴＡＬ ＳＫＩＬＬＳ</h3>
 <p align="left">
-[![PHP](https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b)]
+ <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
