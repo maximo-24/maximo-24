@@ -46,7 +46,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 [![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN%20-%20%20%230077B5?style=for-the-badge&logoColor=%23FFF&labelColor=%230077B5)](https://www.linkedin.com/in/mark-angelo-fulledo/)
 [![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
 
-# Maximo-24's GitHub Stats
+# 🚀 GITHUB STATUS
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/maximo-24)
 [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=maximo-24&theme=vue-dark&hide_border=true)](https://github.com/maximo-24)
