@@ -23,13 +23,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 
 <h1>📝STARTER PROJECT</h1>
 
-<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> ​A simple Java GUI school project for hardware store management.
-
-<a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a> A file upload CRUD management system for school projects.
-
-<a href="https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> -  A RESTful web service for managing student data.
-
-<a href="https://github.com/maximo-24/mark-fulledo-portfolio.git"><img src="https://img.shields.io/badge/Portfolio%20-%20%23de9009?style=flat" alt="portfolio" /></a> -This is a personal portfolio website showcasing my skills, projects, certifications, and experience.
+<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a><a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a><a href="https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a><a href="https://github.com/maximo-24/mark-fulledo-portfolio.git"><img src="https://img.shields.io/badge/Portfolio%20-%20%23de9009?style=flat" alt="portfolio" /></a> 
 
 <h1>📣ONGOING PROJECT</h1>
 
