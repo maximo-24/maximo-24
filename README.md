@@ -16,10 +16,9 @@
  <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
  <a href="#"><img src="https://img.shields.io/badge/JAVA%20-%20%2326a69f?style=for-the-badge&logoColor=%23fff&label=%E2%99%A8&labelColor=%2365a3a0" alt="JAVA"></a>
  <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT%20-%20%23b01c89?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23966389" alt="JAVASCRIPT"></a>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45" />
+ <a href="#"><img src="https://img.shields.io/badge/HTML%20-%20%23ada936?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23c9c78b" alt="HTML"></a>
+ <a href="#"><img src="https://img.shields.io/badge/CSS%20-%20%23660512?style=for-the-badge&logo=css&logoColor=%23fff&labelColor=%2385424b" alt="CSS"/></a>
+ <a href="#"><img src="https://img.shields.io/badge/MYSQL%20-%20%238a4ad4?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%234b3761" alt="MYSQL" />
 </p>
 
 <h3>📝ＳＴＡＲＴＥＲ ＰＲＯＪＥＣＴＳ</h3>
