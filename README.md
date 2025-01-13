@@ -15,9 +15,8 @@
 <p align="left">
  <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
  <a href="#"><img src="https://img.shields.io/badge/JAVA%20-%20%2326a69f?style=for-the-badge&logoColor=%23fff&label=%E2%99%A8&labelColor=%2365a3a0" alt="JAVA"></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+ <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT%20-%20%23b01c89?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23966389" alt="JAVASCRIPT"></a>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45" />
