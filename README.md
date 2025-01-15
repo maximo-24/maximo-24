@@ -1,15 +1,15 @@
 <h1>👋ABOUT ME</h1>
 
 <div align="justify">
-<h3>I am an enthusiastic web developer specializing in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. My expertise lies in both front-end and back-end technologies, allowing me to build comprehensive web solutions. ​I am​...
+I am an enthusiastic web developer specializing in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. My expertise lies in both front-end and back-end technologies, allowing me to build comprehensive web solutions. ​I am​...
 📌Willing to learn
 ​📌Open on suggestions
 📌Capable of working cooperatively
-​📌Able to socialize on different behavioral fronts</h3>
+​📌Able to socialize on different behavioral fronts
 </div>
 
 <h1>💻TECHNICAL FUNDAMENTS SKILLS</h1>
-<h3>I have hands-on experience with a variety of programming languages, frameworks, and tools, enabling me to build effective and efficient web applications. Here's a breakdown of my technical expertise: </h3><br>
+I have hands-on experience with a variety of programming languages, frameworks, and tools, enabling me to build effective and efficient web applications. Here's a breakdown of my technical expertise: <br>
 <p align="left">
  <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
  <a href="#"><img src="https://img.shields.io/badge/JAVA%20-%20%2326a69f?style=for-the-badge&logoColor=%23fff&label=%E2%99%A8&labelColor=%2365a3a0" alt="JAVA"></a>
