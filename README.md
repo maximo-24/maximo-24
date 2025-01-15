@@ -3,13 +3,13 @@
 <div align="justify">
 I am an enthusiastic web developer specializing in building dynamic and intuitive websites. I enjoy creating user-friendly designs and finding solutions to challenging issues. My expertise lies in both front-end and back-end technologies, allowing me to build comprehensive web solutions.<br>
 </div>
-<div style="text-align: left;">
+
  🙋‍♂️​I AM​...
 📌Willing to learn
 ​📌Open on suggestions
 📌Capable of working cooperatively
 ​📌Able to socialize on different behavioral fronts
-</div>
+
 
 <h1>💻TECHNICAL FUNDAMENTS SKILLS</h1>
 <p align="left">
