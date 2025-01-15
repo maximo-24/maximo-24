@@ -23,7 +23,9 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 
 <h1>📝STARTER PROJECT</h1>
 
-<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> <a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a> <a href="https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> <a href="https://github.com/maximo-24/mark-fulledo-portfolio.git"><img src="https://img.shields.io/badge/Portfolio%20-%20%23de9009?style=flat" alt="portfolio" /></a> 
+<a href="https://github.com/maximo-24/simple_java_hardware_store_pos_management_system.git"><img src="https://img.shields.io/badge/Simple%20Hardware%20POS%20System%20-%20%23FFFFFF?style=flat&logoColor=%23&logoSize=auto&color=%233dbe25" alt="simple_hardware_pos_system" /></a> <a href="https://github.com/maximo-24/documento_crud_system.git"><img src="https://img.shields.io/badge/DOCUMENTO%20-%20%231dd3dd?style=flat" alt="documento" /></a> <a href="https://github.com/maximo-24/simple_student_manage_sys-RESTful-web-service_JAVA.git"><img src="https://img.shields.io/badge/Simple%20Student%20Management%20RESTful%20Web%20Service%20-%20%231c53bb" alt="webresjava" /></a> <a href="https://github.com/maximo-24/mark-fulledo-portfolio.git"><img src="https://img.shields.io/badge/Portfolio%20-%20%23de9009?style=flat" alt="portfolio" /></a> <a href="https://github.com/maximo-24/simple_door_lock_arduino_with_sensor_and_beeping_system.git"><img src="https://img.shields.io/badge/Simple%20Door%20Lock%20Arduino%20with%20Sensor%20%26%20Beeping%20System%20-%20%238a8167?style=flat" alt="simple_arduino_lock_with_sensor_and_beeper" /></a> 
+
+
 
 <h1>📱CONTACT ME</h1>
 
