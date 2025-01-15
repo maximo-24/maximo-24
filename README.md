@@ -9,6 +9,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 </div>
 
 <h1>💻TECHNICAL FUNDAMENTS SKILLS</h1>
+I have hands-on experience with a variety of programming languages, frameworks, and tools, enabling me to build effective and efficient web applications. Here's a breakdown of my technical expertise:
 <p align="left">
  <a href="#"><img src="https://img.shields.io/badge/PHP%20-%20%20%236aad71?style=for-the-badge&logo=php&logoColor=%23fff&labelColor=%2319cf2b" alt="PHP"></a>
  <a href="#"><img src="https://img.shields.io/badge/JAVA%20-%20%2326a69f?style=for-the-badge&logoColor=%23fff&label=%E2%99%A8&labelColor=%2365a3a0" alt="JAVA"></a>
