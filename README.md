@@ -16,7 +16,8 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
  <a href="#"><img src="https://img.shields.io/badge/JAVASCRIPT%20-%20%23b01c89?style=for-the-badge&logo=javascript&logoColor=%23fff&labelColor=%23966389" alt="JAVASCRIPT"></a>
  <a href="#"><img src="https://img.shields.io/badge/HTML%20-%20%23ada936?style=for-the-badge&logo=html5&logoColor=%23fff&labelColor=%23c9c78b" alt="HTML"></a>
  <a href="#"><img src="https://img.shields.io/badge/CSS%20-%20%23660512?style=for-the-badge&logo=css&logoColor=%23fff&labelColor=%2385424b" alt="CSS"/></a>
- <a href="#"><img src="https://img.shields.io/badge/MYSQL%20-%20%238a4ad4?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%234b3761" alt="MYSQL" />
+ <a href="#"><img src="https://img.shields.io/badge/MYSQL%20-%20%238a4ad4?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%234b3761" alt="MYSQL" /></a>
+ <a href="#"><img src="https://img.shields.io/badge/MYSQL%20-%20%238a4ad4?style=for-the-badge&logo=mysql&logoColor=%23fff&labelColor=%234b3761" alt="MYSQL" /></a>
 </p>
 
 <h1>📝MINI PROJECTS</h1>
