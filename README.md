@@ -28,7 +28,7 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 <h1>📱CONTACT ME</h1>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoSize=AUTO)](https://www.facebook.com/markangelo.fulledo)
-[![Gmail](https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209)](mailto:markangelofulledo@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL%20-%20%23c71610?style=for-the-badge&logo=gmail&logoColor=%23FFF)](mailto:markangelofulledo@gmail.com)
 [![TikTok](https://img.shields.io/badge/TikTok-%20%23EE1D52?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@maximuzt24)
 [![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN%20-%20%20%230077B5?style=for-the-badge&logoColor=%23FFF&labelColor=%230077B5)](https://www.linkedin.com/in/mark-angelo-fulledo/)
 [![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
