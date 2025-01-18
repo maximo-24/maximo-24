@@ -32,6 +32,9 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 [![TikTok](https://img.shields.io/badge/TikTok-%20%23EE1D52?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@maximuzt24)
 [![LinkedIn](https://img.shields.io/badge/in%20LINKEDIN%20-%20%20%230077B5?style=for-the-badge&logoColor=%23FFF&labelColor=%230077B5)](https://www.linkedin.com/in/mark-angelo-fulledo/)
 [![Upwork](https://img.shields.io/badge/UPWORK%20-%20%20%2300FF00?style=for-the-badge&logo=upwork&logoColor=%23FFFFFF)](https://www.upwork.com/freelancers/~01fb3708b55e3fba50)
+[![StackOverflow](https://img.shields.io/badge/Stack%20Overflow%20-%20%23FFA500?style=for-the-badge&logo=stackoverflow&logoColor=%23FFF)](https://stackoverflow.com/users/29105836/mark-angelo-folledo)
+
+
 
 # 🚀 GITHUB STATUS
 
