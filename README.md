@@ -42,4 +42,4 @@ I am an enthusiastic web developer specializing in building dynamic and intuitiv
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maximo-24&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/maximo-24)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maximo-24&theme=cobalt&show_icons=true&hide_border=true&count_private=true)](https://github.com/maximo-24)
 
-📢 A NEWBIE BUT WILLING TO EXPANF MY HORIZON ON MORE DISCUSSIONS. THANKS FOR VISITING​❗
+📢 A NEWBIE BUT WILLING TO EXPAND MY HORIZON ON MORE DISCUSSIONS. THANKS FOR VISITING​❗
